@@ -1,0 +1,12 @@
+{
+    "name": "Move.it",
+    "short_name": "Move.it",
+    "description": "Ajudando você a se focar e exercitar",
+    "theme_color": "#483C67",
+    "background_color": "#121214",
+    "display": "standalone",
+    "lang": "pt-BR",
+    "scope": "/",
+    "start_url": "/",
+    "icons": []
+  }
