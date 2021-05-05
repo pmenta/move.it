@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="/github1.jpeg" />
+    <img alt="Move.it" title="Move.it" src="/public/github1.jpeg" />
 </h1>
 
 <p align="center">
@@ -14,15 +14,15 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/nlw-04-reactjs-moveit?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
+  <img src="https://img.shields.io/github/forks/pmenta/move.it?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
 
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw-04-reactjs-moveit?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+  <img src="https://img.shields.io/github/stars/pmenta/move.it?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  Move.it
 </p>
 
 ## 🧪 Technologies
@@ -30,7 +30,7 @@
 This project was developed using the following technologies:
 
 - [Next.js](https://nextjs.org/)
--- [Next-PWA](https://www.npmjs.com/package/next-pwa)
+- [Next-PWA](https://www.npmjs.com/package/next-pwa)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
@@ -43,7 +43,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone https://github.com/pmenta/move.it && cd move.it
 ```
 
 Follow the steps below
@@ -57,7 +57,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Move.it](https://move-it-guilhermecapitao.vercel.app/) came to remind you to exercise always! 💜 
+Move.it came to remind you to exercise always! 💜 
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
